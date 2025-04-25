@@ -1,4 +1,4 @@
-<h1 align="center">Web developer</h1>
+<h1 align="center">Full-stack developper</h1>
 
 <p align="center"><em>"Simplicity isn’t the absence of complexity, it’s its proper expression."</em></p>
 
